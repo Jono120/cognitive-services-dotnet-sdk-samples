@@ -13,8 +13,8 @@ namespace Microsoft.Azure.CognitiveServices.Samples.ComputerVision.DescribeImage
         static void Main(string[] args)
         {
             // Add your Computer Vision subscription key and endpoint to your environment variables
-            string subscriptionKey = Environment.GetEnvironmentVariable("COMPUTER_VISION_SUBSCRIPTION_KEY"); 
-            string endpoint = Environment.GetEnvironmentVariable("COMPUTER_VISION_ENDPOINT");
+            string subscriptionKey = Environment.GetEnvironmentVariable("45c714d75ff847fd8e45719009d766d6"); 
+            string endpoint = Environment.GetEnvironmentVariable("https://australiaeast.api.cognitive.microsoft.com/");
 
             try
             {
